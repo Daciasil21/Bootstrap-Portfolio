@@ -1,0 +1,31 @@
+
+#texture{
+	height:500px;
+	width:100%;
+	background-image: url("../images/ep_naturalwhite.png");
+    background-repeat: repeat; 
+	border-top: 5px solid grey;
+}
+
+#profile{
+	background-color: white;
+	color:gray;
+	margin-left: 30px;
+	margin-top:20px;
+
+}
+
+.pull-left{
+	margin-right:10px;
+	margin-bottom: 10px;
+}
+
+.article2{
+	text-align: center;
+	background-color: white;
+	color:gray;
+	margin-top: 20px;
+	margin-bottom:20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
